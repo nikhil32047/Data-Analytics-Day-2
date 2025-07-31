@@ -1,0 +1,96 @@
+✅ Day 2: Data Lifecycle
+=========================
+🔍 Summary:
+The Data Lifecycle refers to the stages through which data passes:
+1. Data Collection – Gathering raw data (e.g., surveys, sensors)
+2. Data Storage – Saving in DBs, data lakes, or cloud
+3. Data Cleaning – Removing duplicates, handling nulls
+4. Data Analysis – Using tools to extract insights
+5. Data Visualization – Charts/dashboards for stakeholders
+6. Data Archival/Deletion – Store or discard old data securely
+
+
+--> Collect - Analyse - Insights 
+
+
+🧠 Example:
+In Flipkart, product order data is collected → stored in MySQL → cleaned → analyzed for demand → visualized in dashboards for managers.
+
+
+Data Analytics Workflow
+=======================
+🔍 Summary:
+This is the step-by-step process analysts follow:
+
+Define the Problem
+
+Collect Relevant Data
+
+Clean & Prepare Data
+
+Analyze the Data
+
+Interpret Results
+
+Communicate Findings (via reports or dashboards)
+
+🧠 Example:
+An analyst at Zomato wants to reduce cart abandonment.
+
+Collects user session data
+
+Cleans missing clicks
+
+Analyzes time-on-page
+
+Presents drop-off rates to product team
+
+
+
+Structured vs Unstructured Data (Deep Dive)
+===========================================
+🔍 Summary:
+Structured: Stored in tables (SQL), easy to query
+
+Unstructured: Free-form (text, images, audio), hard to process without AI/ML
+
+🧠 Example:
+Structured: Sales report in Excel
+
+Unstructured: A customer complaint in an email
+
+
+Key Tools Used in Data Analytics
+================================
+🔍 Summary:
+Excel – Fast calculations, visual charts
+
+SQL – Querying databases
+
+Python – Advanced data handling
+
+Power BI / Tableau – Dashboard creation
+
+Jupyter Notebooks – Documentation + code in one
+
+🧠 Example:
+A startup analyst might use:
+
+SQL to extract sales data
+
+Python to clean & model it
+
+Power BI to visualize trends
+
+google b query - GitHub - DBT - Data Build Tool - FiveTran - Salesforce - Tableau
+
+
+
+What is Business Intelligence (BI)?
+===================================
+🔍 Summary:
+BI involves using tools and practices to turn raw data into meaningful business insights. BI often uses dashboards, charts, and visualizations.
+
+🧠 Example:
+A telecom company uses BI dashboards to monitor dropped calls, data usage, and customer churn rate.
+
